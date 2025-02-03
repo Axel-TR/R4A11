@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="confirm">Valider</string>
+    <string name="nameInput">Saisir votre nom</string>
+    <string name="ageInput">Saisir votre date de naissance</string>
+</resources>
